@@ -1,0 +1,497 @@
+#border { 
+border : 1px solid black;
+width : 1200px;
+height : 1200px;
+margin-left : 70px;
+background-color : #505050;
+}
+
+#border1 {
+border : 1px solid black;
+width : 900px;
+height : 1200px;
+margin-left : 150px;
+background-color : #202020;
+}
+
+#nav {
+position : relative;
+}
+
+
+ul {
+list-style-type : none;
+margin : 0;
+padding : 0;
+border : 1px solid black;
+width : 900px;
+height : 35px;
+float : left;
+background-image : url(menu.jpg);
+background-size : cover;
+}
+
+li {
+float : left;
+margin : 10px;
+padding : -5px;
+}
+
+li a {
+display : block;
+background-color : transparent;
+text-decoration : none;
+text-align : center;
+padding 8px 20px;
+}
+
+li a:hover {
+background-color : transparent;
+}
+
+a.current  {
+color : red;
+}
+
+#image1 {
+float : left;
+border : 0px solid transparent;
+width : 900px;
+height : 300px;
+}
+
+#block1 { 
+border : 1px solid black;
+width : 200px;
+height : 720px;
+margin-top : 40px;
+float : left;
+margin-left : 10px;
+background-color : #101010;
+}
+
+#cat {
+float : left;
+width : 200px;
+height : 30px;
+margin-top : -5px;
+float : left;
+margin-left : 0px;
+font-size : 25px;
+}
+
+.dotted {
+border : 5px dotted;
+border-radius : 10px;
+border-color : transparent transparent yellow transparent;
+}
+
+
+#block2 {
+float : left;
+border : 1px solid;
+border-color : transparent transparent white transparent;
+width : 197px;
+height : 240px;
+margin-left : 3px;
+font-size : 14px;
+line-height : 10px;
+margin-top : -20px;
+}
+
+#best {
+float : left;
+width : 200px;
+height : 30px;
+margin-top : 280px;
+float : left;
+margin-left : 0px;
+font-size : 25px;
+}
+
+.dotted {
+border : 5px dotted;
+border-radius : 10px;
+border-color : transparent transparent yellow transparent;
+}
+
+
+#block3 {
+border : 1px solid;
+border-color : transparent transparent white transparent;
+width : 197px;
+height : 260px;
+margin-left : 3px;
+font-size : 14px;
+line-height : 10px;
+margin-top : -20px;
+}
+
+#bestauthor {
+float : left;
+width : 290px;
+height : 300px;
+border : 1px solid dimgray;
+margin-top : 40px;
+margin-left : 50px;
+background-color : #202020;
+}
+
+#background1 {
+float : left;
+border : 0px solid ;
+width : 280px;
+height : 40px;
+margin-left : 5px;
+background-image : url(menu.jpg);
+background-size : cover;
+margin-top : 15px;
+font-size : 22px;
+}
+
+#first {
+float : left;
+border : 0px solid black;
+width : 100px;
+height : 200px;
+margin-left : 5px;
+margin-top : 20px;
+}
+
+#second {
+float : left;
+border : 0px solid ;
+width : 170px;
+height : 200px;
+margin-left : 10px;
+margin-top : 20px;
+background-color :#202020 ;
+}
+
+#second1 {
+float : left;
+border : 0px solid transparent;
+width : 167px;
+height : 50px;
+margin-left : 1px;
+font-size : 15px;
+background-color : #202020;
+}
+
+#second2{
+float : left;
+border : 0px solid black;
+width : 40px;
+height : 20px;
+margin-top : 30px;
+font-size : 20px;
+}
+
+#second3 {
+float : left;
+border : 0px solid black;
+width : 135px;
+height : 75px;
+margin-left : 5px;
+margin-top : 20px;
+}
+
+#second31 {
+float :left;
+border : 0px solid black;
+width : 90px;
+height : 20px;
+margin-top  : 20px;
+border-radius : 10px;
+background-color : olive;
+}
+
+#second32 {
+float :left;
+border : 0px solid black;
+width : 90px;
+height : 20px;
+margin-top  : 10px;
+border-radius : 10px;
+background-color : black;
+}
+
+
+#newauthor {
+float : left;
+width : 290px;
+height : 300px;
+border : 1px solid dimgray;
+margin-top : 40px;
+margin-left : 25px;
+background-color :#202020 ;
+}
+
+#background2 {
+float : left;
+border : 0px solid ;
+width : 280px;
+height : 40px;
+margin-left : 5px;
+background-image : url(menu.jpg);
+background-size : cover;
+margin-top : 15px;
+font-size : 22px;
+}
+
+#first1 {
+float : left;
+border : 0px solid black;
+width : 100px;
+height : 200px;
+margin-left : 5px;
+margin-top : 20px;
+}
+
+#second0{
+float : left;
+border : 0px solid ;
+width : 170px;
+height : 200px;
+margin-left : 10px;
+margin-top : 20px;
+background-color :#202020 ;
+}
+
+#second11 {
+float : left;
+border : 0px solid transparent;
+width : 167px;
+height : 50px;
+margin-left : 1px;
+font-size : 15px;
+background-color : #202020;
+}
+
+#second21{
+float : left;
+border : 0px solid black;
+width : 40px;
+height : 20px;
+margin-top : 30px;
+font-size : 20px;
+}
+
+#second310 {
+float : left;
+border : 0px solid black;
+width : 135px;
+height : 75px;
+margin-left : 5px;
+margin-top : 20px;
+}
+
+#second311 {
+float :left;
+border : 0px solid black;
+width : 90px;
+height : 20px;
+margin-top  : 20px;
+border-radius : 10px;
+background-color : olive;
+}
+
+#second321 {
+float :left;
+border : 0px solid black;
+width : 90px;
+height : 20px;
+margin-top  : 10px;
+border-radius : 10px;
+background-color : black;
+}
+
+#Gardening {
+float : left;
+width : 290px;
+height : 300px;
+border : 1px solid dimgray;
+margin-top : 40px;
+margin-left : 50px;
+background-color : #202020;
+}
+
+#background10000 {
+float : left;
+border : 0px solid ;
+width : 280px;
+height : 40px;
+margin-left : 5px;
+background-image : url(menu.jpg);
+background-size : cover;
+margin-top : 15px;
+font-size : 22px;
+}
+
+#first0000 {
+float : left;
+border : 0px solid black;
+width : 100px;
+height : 200px;
+margin-left : 5px;
+margin-top : 20px;
+}
+
+#second0000 {
+float : left;
+border : 0px solid ;
+width : 170px;
+height : 200px;
+margin-left : 10px;
+margin-top : 20px;
+background-color :#202020 ;
+}
+
+#second100000 {
+float : left;
+border : 0px solid transparent;
+width : 167px;
+height : 50px;
+margin-left : 1px;
+font-size : 15px;
+background-color : #202020;
+}
+
+#second20000{
+float : left;
+border : 0px solid black;
+width : 40px;
+height : 20px;
+margin-top : 30px;
+font-size : 20px;
+}
+
+#second30000 {
+float : left;
+border : 0px solid black;
+width : 135px;
+height : 75px;
+margin-left : 5px;
+margin-top : 20px;
+}
+
+#second310000 {
+float :left;
+border : 0px solid black;
+width : 90px;
+height : 20px;
+margin-top  : 20px;
+border-radius : 10px;
+background-color : olive;
+}
+
+#second320000 {
+float :left;
+border : 0px solid black;
+width : 90px;
+height : 20px;
+margin-top  : 10px;
+border-radius : 10px;
+background-color : black;
+}
+
+#sushi {
+float : left;
+width : 290px;
+height : 300px;
+border : 1px solid dimgray;
+margin-top : 40px;
+margin-left : 25px;
+background-color :#202020 ;
+}
+
+#background21111 {
+float : left;
+border : 0px solid ;
+width : 280px;
+height : 40px;
+margin-left : 5px;
+background-image : url(menu.jpg);
+background-size : cover;
+margin-top : 15px;
+font-size : 22px;
+}
+
+#first11111{
+float : left;
+border : 0px solid black;
+width : 100px;
+height : 200px;
+margin-left : 5px;
+margin-top : 20px;
+}
+
+#second01111{
+float : left;
+border : 0px solid ;
+width : 170px;
+height : 200px;
+margin-left : 10px;
+margin-top : 20px;
+background-color :#202020 ;
+}
+
+#second111111 {
+float : left;
+border : 0px solid transparent;
+width : 167px;
+height : 50px;
+margin-left : 1px;
+font-size : 15px;
+background-color : #202020;
+}
+
+#second211111{
+float : left;
+border : 0px solid black;
+width : 40px;
+height : 20px;
+margin-top : 30px;
+font-size : 20px;
+}
+
+#second3101111 {
+float : left;
+border : 0px solid black;
+width : 135px;
+height : 75px;
+margin-left : 5px;
+margin-top : 20px;
+}
+
+#second3111111 {
+float :left;
+border : 0px solid black;
+width : 90px;
+height : 20px;
+margin-top  : 20px;
+border-radius : 10px;
+background-color : olive;
+}
+
+#second3211111 {
+float :left;
+border : 0px solid black;
+width : 90px;
+height : 20px;
+margin-top  : 10px;
+border-radius : 10px;
+background-color : black;
+}
+
+#encyclopedia {
+float : left;
+border : 0px solid white;
+width : 607px;
+height : 90px;
+margin-left : 50px;
+margin-top : 40px;
+border-radius : 10px;
+}
+
+
